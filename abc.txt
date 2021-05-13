@@ -1,1 +1,2 @@
-Adding the text just to check Git-Jenkins Integration
+Adding the text just to check Git-Jenkins Integrationn.
+After commit, check the Jenkins build
